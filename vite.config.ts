@@ -8,4 +8,5 @@ export default defineConfig({
       ['swc-plugin-coverage-instrument', {}]
     ]
   })],
+  base:'/example-vite-react-swc/'
 })
